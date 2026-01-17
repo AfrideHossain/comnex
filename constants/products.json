@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Noise Cancelling Headphones",
+    "category": "Electronics",
+    "price": 149.99,
+    "currency": "USD",
+    "description": "Over-ear wireless headphones with active noise cancellation.",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e"
+  },
+  {
+    "id": 2,
+    "name": "Smart Fitness Watch",
+    "category": "Wearables",
+    "price": 89.99,
+    "currency": "USD",
+    "description": "Smartwatch with heart rate monitoring and activity tracking.",
+    "image": "https://images.unsplash.com/photo-1544117519-31a4b719223d"
+  },
+  {
+    "id": 3,
+    "name": "Mechanical Keyboard",
+    "category": "Computer Accessories",
+    "price": 119.0,
+    "currency": "USD",
+    "description": "Mechanical keyboard with RGB lighting.",
+    "image": "https://images.unsplash.com/photo-1595225476474-87563907a212"
+  },
+  {
+    "id": 4,
+    "name": "Ergonomic Office Chair",
+    "category": "Furniture",
+    "price": 229.99,
+    "currency": "USD",
+    "description": "Ergonomic chair designed for comfort and posture support.",
+    "image": "https://images.unsplash.com/photo-1748887522224-88528bd4bd5f"
+  },
+  {
+    "id": 5,
+    "name": "Portable Bluetooth Speaker",
+    "category": "Audio",
+    "price": 59.99,
+    "currency": "USD",
+    "description": "Compact Bluetooth speaker with rich sound.",
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1"
+  },
+  {
+    "id": 6,
+    "name": "DSLR Camera",
+    "category": "Photography",
+    "price": 699.0,
+    "currency": "USD",
+    "description": "Professional DSLR camera for photography and video.",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32"
+  },
+  {
+    "id": 7,
+    "name": "Gaming Mouse",
+    "category": "Gaming Accessories",
+    "price": 39.99,
+    "currency": "USD",
+    "description": "High-precision gaming mouse with ergonomic design.",
+    "image": "https://images.unsplash.com/photo-1629429407759-01cd3d7cfb38"
+  },
+  {
+    "id": 8,
+    "name": "4K Ultra HD Monitor",
+    "category": "Monitors",
+    "price": 329.99,
+    "currency": "USD",
+    "description": "27-inch 4K monitor with ultra-clear display.",
+    "image": "https://images.unsplash.com/photo-1585792180666-f7347c490ee2"
+  },
+  {
+    "id": 9,
+    "name": "Laptop Backpack",
+    "category": "Bags",
+    "price": 49.99,
+    "currency": "USD",
+    "description": "Backpack with padded laptop compartment.",
+    "image": "https://images.unsplash.com/photo-1622560480605-d83c853bc5c3"
+  },
+  {
+    "id": 10,
+    "name": "Stainless Steel Water Bottle",
+    "category": "Lifestyle",
+    "price": 19.99,
+    "currency": "USD",
+    "description": "Insulated stainless steel water bottle.",
+    "image": "https://images.unsplash.com/photo-1577937927133-66ef06acdf18"
+  },
+  {
+    "id": 11,
+    "name": "Wireless Charging Pad",
+    "category": "Mobile Accessories",
+    "price": 24.99,
+    "currency": "USD",
+    "description": "Fast wireless charger for smartphones.",
+    "image": "https://images.unsplash.com/photo-1611078489935-0cb964de46d6"
+  },
+  {
+    "id": 12,
+    "name": "LED Desk Lamp",
+    "category": "Home Office",
+    "price": 34.99,
+    "currency": "USD",
+    "description": "Minimal LED desk lamp with adjustable arm.",
+    "image": "https://images.unsplash.com/photo-1519710164239-da123dc03ef4"
+  },
+  {
+    "id": 13,
+    "name": "Wired Earbuds",
+    "category": "Audio",
+    "price": 29.99,
+    "currency": "USD",
+    "description": "In-ear wired earbuds with noise isolation.",
+    "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df"
+  },
+  {
+    "id": 14,
+    "name": "Electric Coffee Grinder",
+    "category": "Kitchen Appliances",
+    "price": 44.99,
+    "currency": "USD",
+    "description": "Electric grinder for fresh coffee beans.",
+    "image": "https://images.unsplash.com/photo-1610632380989-680fe40816c6"
+  },
+  {
+    "id": 15,
+    "name": "Smart Home Security Camera",
+    "category": "Smart Home",
+    "price": 79.99,
+    "currency": "USD",
+    "description": "Indoor smart camera with motion detection.",
+    "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914"
+  },
+  {
+    "id": 16,
+    "name": "Tablet Stand",
+    "category": "Accessories",
+    "price": 14.99,
+    "currency": "USD",
+    "description": "Adjustable aluminum tablet stand.",
+    "image": "https://images.unsplash.com/photo-1589739900266-43b2843f4c12"
+  },
+  {
+    "id": 17,
+    "name": "Running Shoes",
+    "category": "Footwear",
+    "price": 99.99,
+    "currency": "USD",
+    "description": "Lightweight running shoes for daily training.",
+    "image": "https://images.unsplash.com/photo-1608231387042-66d1773070a5"
+  },
+  {
+    "id": 18,
+    "name": "Yoga Mat",
+    "category": "Fitness",
+    "price": 24.99,
+    "currency": "USD",
+    "description": "Non-slip yoga mat for home workouts.",
+    "image": "https://images.unsplash.com/photo-1603988363607-e1e4a66962c6"
+  },
+  {
+    "id": 19,
+    "name": "Ceramic Coffee Mug",
+    "category": "Kitchenware",
+    "price": 12.99,
+    "currency": "USD",
+    "description": "Ceramic mug suitable for hot beverages.",
+    "image": "https://images.unsplash.com/photo-1511920170033-f8396924c348"
+  },
+  {
+    "id": 20,
+    "name": "Wireless Wi-Fi Router",
+    "category": "Networking",
+    "price": 129.99,
+    "currency": "USD",
+    "description": "Dual-band Wi-Fi router for high-speed internet.",
+    "image": "https://images.unsplash.com/photo-1606420187127-dae7c868fa7a"
+  }
+]
